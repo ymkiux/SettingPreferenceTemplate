@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SettingPreference</string>
+    <string name="feedback">用户反馈</string>
+    <string name="Clear_cache">清除缓存</string>
+    <string name="about_me">关于我们</string>
+    <string name="Push_management">推送管理</string>
+    <string name="preferencescreen">PreferenceScreen</string>
+</resources>
